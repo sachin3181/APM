@@ -14,7 +14,7 @@ export class ProductData implements InMemoryDbService {
         'description': 'Leaf rake with 48-inch wooden handle',
         'price': 19.95,
         'starRating': 3.2,
-        'imageUrl': 'https://openclipart.org/image/300px/svg_to_png/26215/Anonymous_Leaf_Rake.png',
+        'imageUrl': 'https://www.mypornstarbook.net/pornstars/k/kelly_divine/gallery01/images/09.jpg',
         'category': 'Garden',
         'tags': ['rake', 'leaf', 'yard', 'home']
       },
@@ -26,7 +26,7 @@ export class ProductData implements InMemoryDbService {
         'description': '15 gallon capacity rolling garden cart',
         'price': 32.99,
         'starRating': 4.2,
-        'imageUrl': 'https://openclipart.org/image/300px/svg_to_png/58471/garden_cart.png',
+        'imageUrl': 'http://brasseriepdx.com/imgs/cf103fc4865e75cebc18f2a1237cf1b4.jpg',
         'category': 'Garden'
       },
       {
@@ -37,7 +37,7 @@ export class ProductData implements InMemoryDbService {
         'description': 'Curved claw steel hammer',
         'price': 8.9,
         'starRating': 4.8,
-        'imageUrl': 'https://openclipart.org/image/300px/svg_to_png/73/rejon_Hammer.png',
+        'imageUrl': 'https://megapornpics.com/wp-content/uploads/2018/06/big_booty_brazili-5715.jpg',
         'category': 'Toolbox',
         'tags': ['tools', 'hammer', 'construction']
       },
@@ -49,7 +49,7 @@ export class ProductData implements InMemoryDbService {
         'description': '15-inch steel blade hand saw',
         'price': 11.55,
         'starRating': 3.7,
-        'imageUrl': 'https://openclipart.org/image/300px/svg_to_png/27070/egore911_saw.png',
+        'imageUrl': 'https://i1.fuskator.com/large/fcEKypL3MQt/image-1.jpg',
         'category': 'Toolbox'
       },
       {
@@ -60,7 +60,7 @@ export class ProductData implements InMemoryDbService {
         'description': 'Standard two-button video game controller',
         'price': 35.95,
         'starRating': 4.6,
-        'imageUrl': 'https://openclipart.org/image/300px/svg_to_png/120337/xbox-controller_01.png',
+        'imageUrl': 'http://www.sosexygirl.com/wp-content/uploads/2012/12/Big-Ass-Young-Brazilian-Anal-Sex-3.jpg',
         'category': 'Gaming'
       }
     ];
