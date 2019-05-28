@@ -1,5 +1,6 @@
 {
   "files.autoSave": "afterDelay",
   "html.format.wrapAttributes": "force-aligned",
-  "editor.minimap.enabled": false
+  "editor.minimap.enabled": false,
+  "workbench.list.openMode": "doubleClick"
 }

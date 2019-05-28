@@ -14,7 +14,7 @@ export class ProductData implements InMemoryDbService {
         'description': 'Leaf rake with 48-inch wooden handle',
         'price': 19.95,
         'starRating': 3.2,
-        'imageUrl': 'https://www.mypornstarbook.net/pornstars/k/kelly_divine/gallery01/images/09.jpg',
+        'imageUrl': 'https://thumb-p9.xhcdn.com/a/oTFmWvXbyeV92kxiy1HZDQ/000/249/365/029_1000.jpg',
         'category': 'Garden',
         'tags': ['rake', 'leaf', 'yard', 'home']
       },
@@ -26,7 +26,7 @@ export class ProductData implements InMemoryDbService {
         'description': '15 gallon capacity rolling garden cart',
         'price': 32.99,
         'starRating': 4.2,
-        'imageUrl': 'http://brasseriepdx.com/imgs/cf103fc4865e75cebc18f2a1237cf1b4.jpg',
+        'imageUrl': 'https://thumb-p1.xhcdn.com/a/QuYE4azBUC87zuMOL5NbIQ/000/179/491/251_1000.jpg',
         'category': 'Garden'
       },
       {
@@ -37,7 +37,7 @@ export class ProductData implements InMemoryDbService {
         'description': 'Curved claw steel hammer',
         'price': 8.9,
         'starRating': 4.8,
-        'imageUrl': 'https://megapornpics.com/wp-content/uploads/2018/06/big_booty_brazili-5715.jpg',
+        'imageUrl': 'https://thumb-p5.xhcdn.com/a/lcbvC71yJhzrEfjHRIB8gQ/000/117/750/905_1000.jpg',
         'category': 'Toolbox',
         'tags': ['tools', 'hammer', 'construction']
       },
@@ -49,7 +49,7 @@ export class ProductData implements InMemoryDbService {
         'description': '15-inch steel blade hand saw',
         'price': 11.55,
         'starRating': 3.7,
-        'imageUrl': 'https://i1.fuskator.com/large/fcEKypL3MQt/image-1.jpg',
+        'imageUrl': 'https://thumb-p7.xhcdn.com/a/Zif_pxPTAis-DJY0a1kfMQ/000/249/364/887_1000.jpg',
         'category': 'Toolbox'
       },
       {
@@ -60,7 +60,7 @@ export class ProductData implements InMemoryDbService {
         'description': 'Standard two-button video game controller',
         'price': 35.95,
         'starRating': 4.6,
-        'imageUrl': 'http://www.sosexygirl.com/wp-content/uploads/2012/12/Big-Ass-Young-Brazilian-Anal-Sex-3.jpg',
+        'imageUrl': 'https://thumb-p6.xhcdn.com/a/PEE97lr8gefLQlVgHImJzw/000/249/364/696_1000.jpg',
         'category': 'Gaming'
       }
     ];
